@@ -34,7 +34,7 @@ model, scaler, feature_cols = load_artifacts()
 
 # ── Header ────────────────────────────────────────────────────────────────────
 st.title("🛡️ FinShield AI — Fraud Detection System")
-st.markdown("**NovaPay International · Global Transaction Intelligence Platform**")
+st.markdown("**Zenvra International · Global Transaction Intelligence Platform**")
 st.markdown(
     "Enter transaction details below and click **Analyse Transaction** "
     "to get an instant fraud risk assessment."
