@@ -2,7 +2,7 @@
 
 > An end-to-end machine learning project for real-time financial fraud detection in a global fintech environment.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_APP_URL.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finshield-ai-cxumiv2ydoq5tdmjxvv4em.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -206,7 +206,7 @@ The prediction app accepts **23 transaction-level inputs** across five sections:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 The app is deployed publicly via **Streamlit Community Cloud** connected to this GitHub repository.
 
@@ -234,7 +234,7 @@ docker run -d -p 8501:8501 finshield-app
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -250,7 +250,7 @@ docker run -d -p 8501:8501 finshield-app
 
 ---
 
-## 📁 Key Files
+##  Key Files
 
 | File | Description |
 |---|---|
@@ -273,20 +273,16 @@ docker run -d -p 8501:8501 finshield-app
 
 ## 👤 Author
 
-**Uzoh**
+**Uzoh C. Hillary**
 Data Scientist | Analytics Professional
-📍 Asaba, Delta State, Nigeria
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Uzo-Hill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hillaryuzoh/)
 
 ---
+
+
 
 > *FinShield AI is a portfolio project built on synthetic data for educational and demonstration purposes only.*
 
